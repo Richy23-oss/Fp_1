@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_2_DATOS"/>
+        <attribute name="authors" value="rosal"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 04:29:02 p. m."/>
+        <attribute name="created" value="cm9zYWw7REVTS1RPUC1TRUNITjIxOzIwMjUtMDgtMjY7MDQ6MjQ6MTYgcC4gbS47MzA3MA=="/>
+        <attribute name="edited" value="cm9zYWw7REVTS1RPUC1TRUNITjIxOzIwMjUtMDgtMjY7MDQ6Mjk6MDIgcC4gbS47MTszMTc4"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;RICARDO LOPEZ&quot;" newline="True"/>
+            <output expression="1000" newline="True"/>
+            <output expression="52.3" newline="True"/>
+            <output expression="true" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

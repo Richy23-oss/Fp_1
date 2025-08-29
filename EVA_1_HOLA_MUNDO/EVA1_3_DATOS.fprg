@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_3_DATOS"/>
+        <attribute name="authors" value="rosal"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-27 04:30:52 p. m."/>
+        <attribute name="created" value="cm9zYWw7REVTS1RPUC1TRUNITjIxOzIwMjUtMDgtMjc7MDQ6MjI6MjYgcC4gbS47MzA3MA=="/>
+        <attribute name="edited" value="cm9zYWw7REVTS1RPUC1TRUNITjIxOzIwMjUtMDgtMjc7MDQ6MzA6NTIgcC4gbS47MTszMTc2"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;NOMBRE DEL ESTUDIANTE:&quot;" newline="False"/>
+            <output expression="&quot;Ricardo Elian Bencomo Lopez&quot;" newline="True"/>
+            <output expression="&quot;NUMERO DE CONTROL:&quot;" newline="False"/>
+            <output expression="25550470" newline="True"/>
+            <output expression="&quot;EDAD:&quot;" newline="False"/>
+            <output expression="17" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
